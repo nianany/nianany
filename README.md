@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**nianany/nianany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nianany/nianany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 - 🔭 I’m currently working on computer science.
@@ -12,4 +12,4 @@
 - 📫 How to reach me: I am in Beijing
 - 😄 Pronouns: he
 - ⚡ Fun fact: I like play ping-pong,badminton,and soccer.Also I like reading many kinds of books.
--->
+
